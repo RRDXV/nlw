@@ -6,7 +6,7 @@
    
 > Trilha Explorer
 
-Projeto construido do evento next level week da Rocketseat.
+Projeto construido no evento next level week da Rocketseat.
 [Clique aqui para acessar](https://rrdxv.github.io/nlw/)
 ## 🛠 Tecnologias
 
